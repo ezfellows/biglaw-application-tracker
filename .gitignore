@@ -1,0 +1,12 @@
+# your own data never goes in the repo
+/data/
+*.lock
+*.tmp
+inbox/
+
+# local tooling
+.claude/
+__pycache__/
+*.pyc
+.DS_Store
+/demo/

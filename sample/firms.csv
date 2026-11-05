@@ -1,0 +1,9 @@
+key,name,aliases,target,priority,offices
+hartwell,Hartwell & Pike LLP,Hartwell & Pike;Hartwell,y,1,DC;NY
+brandt,Brandt Mercer LLP,Brandt Mercer,y,2,NY
+quillon,Quillon Day LLP,Quillon Day;Quillon,y,1,DC
+ashgrove,Ashgrove Sato LLP,Ashgrove Sato;Ashgrove,y,2,LA;NY
+vance,Vance Okafor LLP,Vance Okafor,y,2,DC;NY
+morrow,Morrow LLP,Morrow,y,3,DC
+morrow-hale,Morrow Hale LLP,Morrow Hale,n,,NY
+larkspur,Larkspur Ode LLP,Larkspur Ode;Larkspur,n,,NY;LA

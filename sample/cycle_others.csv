@@ -1,0 +1,5 @@
+id,firm,office,track,program,opens,deadline,open_status,rolling,letter_required,materials,apply_where,note,source,checked
+larkspur-ny,larkspur,NY,2L-2028,2028 Summer Associate,2026-11-10,,,,y,"Resume, cover letter, writing sample.",,,https://larkspurode.example/students,2026-11-01
+morrow-hale-ny,morrow-hale,NY,2L-2028,2028 Summer Associate,,,open,y,n,Resume and transcripts.,,,https://morrowhale.example/careers,
+quillon-1l,quillon,DC,1L-2027,1L Summer Associate,2026-12-01,2027-01-10,,,y,"Resume, undergraduate transcript, and complete first-semester law school transcript, required before applying.",,,https://quillonday.example/join,
+ashgrove-ny-1l,ashgrove,NY,1L-2027,1L Diversity Scholars Program,2026-11-15,2027-01-20,,,y,"Resume, cover letter, personal statement.",,,https://ashgrovesato.example/scholars,

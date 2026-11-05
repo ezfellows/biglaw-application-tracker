@@ -1,0 +1,8 @@
+{
+  "cycle": 2028,
+  "timezone": "America/New_York",
+  "letters_dir": "letters",
+  "receipt_skip_senders": [
+    "events.example"
+  ]
+}

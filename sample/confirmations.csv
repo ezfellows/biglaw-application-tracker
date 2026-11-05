@@ -1,0 +1,3 @@
+message_id,date,sender,subject,kind,firm,app_id,result,evidence,logged,resolved
+sample-msg-001,2026-10-20,recruiting@hartwellpike.example,Application received - 2028 Summer Associate Program,application,hartwell,hartwell-dc-ny,confirmed,application has been received,2026-10-21,
+sample-msg-002,2026-10-29,noreply@forms.example,Thank you for your application to the Example Scholars Program,application,vance,,review: firm only named in the body (vance),thank you for your application,2026-10-30,

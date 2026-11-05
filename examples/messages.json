@@ -1,0 +1,14 @@
+[
+  {"message_id": "example-101", "date": "2026-11-03T15:04:00Z", "from": "donotreply@ats-mail.example",
+   "from_name": "Ashgrove Sato Recruiting", "subject": "Ashgrove Sato / Application received",
+   "body": "Hi Jordan, Your application for the 2028 Summer Associate (Los Angeles) position has been received."},
+  {"message_id": "example-102", "date": "2026-11-03T18:20:00Z", "from": "noreply@suited.example",
+   "from_name": "Hartwell & Pike via Suited", "subject": "Thank you for completing your Suited assessment",
+   "body": "Hartwell & Pike will receive your results.", "kind": "assessment"},
+  {"message_id": "example-103", "date": "2026-11-02T13:00:00Z", "from": "recruiting@larkspurode.example",
+   "from_name": "Larkspur Ode Recruiting", "subject": "Larkspur Ode / Career Opportunities",
+   "body": "Thank you for visiting our careers page. To continue your application, please click here to apply."},
+  {"message_id": "example-104", "date": "2026-11-03T09:00:00Z", "from": "events@events.example",
+   "from_name": "Campus Events", "subject": "Thank you for registering",
+   "body": "Thank you for registering for the Morrow LLP DC Reception. We have received your submission."}
+]
