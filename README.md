@@ -15,8 +15,8 @@ Python 3 with no dependencies to install.
 ## Quick start
 
 ```bash
-git clone <this repo> application-tracker
-cd application-tracker
+git clone https://github.com/ezfellows/biglaw-application-tracker.git
+cd biglaw-application-tracker
 python3 tracker.py --data demo init --sample   # invented firms and dates
 python3 tracker.py --data demo serve           # open http://localhost:8765
 ```
@@ -289,4 +289,4 @@ path, a phone number or a private page link.
 
 ## License
 
-Not chosen yet.
+MIT. See [LICENSE](LICENSE).
